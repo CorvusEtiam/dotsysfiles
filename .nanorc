@@ -1,0 +1,11 @@
+set autoindent
+set const
+set smooth
+set backupdir "/home/misiek/.nano/backup"
+set casesensitive
+set morespace
+set nohelp
+set tabsize 4
+set tabstospaces
+set mouse
+
