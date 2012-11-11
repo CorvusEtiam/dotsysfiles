@@ -7,6 +7,8 @@
 7. Nie ma zlych projektow. Powiedzial facet, ktory zaprojektowal Viste
 8. Jesli programisci stawiali by domy, te by bylo dziurawe, zarobaczone i co chwile by padaly
 9. Jesli oszczedzisz 3 linie kodu piszac GOTO. Przeczytaj te zdanie i znajdz blad logiczny
-10. Jesli zobaczyles wszystkie cytaty to twoj komputer pracuje juz od kilku godzin - NO LIFE
+10. Dziesiąte: Vim i Linux jest ci pasterzem. Nie brak ci niczego
+11. "Roboty budują roboty, czysta perwersja" C2PO
+12. Jesli zobaczyles wszystkie cytaty to twoj komputer pracuje juz od kilku godzin - NO LIFE
 
 
